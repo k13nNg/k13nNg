@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kien 👋
 
 <!--
 **k13nNg/k13nNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+</div>
+
+- 🌱 I’m currently learning about Machine Learning and Artificial Intelligence
+- 👯 I’m looking to collaborate on Machine Learning projects
+- 📫 How to reach me: k2nguyen@uwaterloo.ca
