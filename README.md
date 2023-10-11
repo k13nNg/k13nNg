@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 
 - 🎓 I’m currently studying Statistics and Computational Mathematics
 - 🌱 I’m passionate about Machine Learning, especially Computer Vision
+- 🤪 [Find me on the web!](https://k13nng.github.io/personal-portfolio/)
 - 📫 How to reach me: k2nguyen@uwaterloo.ca
