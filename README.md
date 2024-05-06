@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align = "center">
   Hi, I'm Kien 👋 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Combinatorial+Optimization+and+Computational+Math;Machine+Learning+and+AI+enthusiast;Lifelong+learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Combinatorial+Optimization;Machine+Learning+and+AI+enthusiast;Lifelong+learner" alt="Typing SVG" /></a>
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/k2nnguyen/)" align = "center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
