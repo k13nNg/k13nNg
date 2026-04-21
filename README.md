@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </h1>
 
-- 🎓 I’m currently studying Statistics and Computational Mathematics
-- 🌱 I’m passionate about Machine Learning, especially Computer Vision
-<!-- - 🤪 [Find me on the web!](https://k13nng.github.io/personal-portfolio/)-->
+- 🎓 I’m currently studying Computational Mathematics and Scientific Machine Learning
+- 🌱 I’m passionate about Machine Learning, Mathematical Modelling, and Optimization Theorem
 - 📫 How to reach me: k2nguyen@uwaterloo.ca
+<!-- - 🤪 [Find me on the web!](https://k13nng.github.io/personal-portfolio/)-->
